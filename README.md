@@ -94,3 +94,5 @@ Calling `--help` on each command provides specific and useful information about 
 Scott Eissfeldt - email: scott@eissfeldt.com
 
 This was created using [Leodanis Pozo Ramos' coding exercise: Build a Command-Line To-Do App With Python and Typer](https://realpython.com/python-typer-cli/) 
+
+I'm using this project to learn more about writing python CLI's.
