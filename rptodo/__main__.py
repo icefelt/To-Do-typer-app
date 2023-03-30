@@ -1,4 +1,4 @@
-"""RP To-Do entry point script."""
+"""To-Do entry point script."""
 
 from rptodo import cli, __app_name__
 
