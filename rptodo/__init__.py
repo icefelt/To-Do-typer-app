@@ -1,7 +1,7 @@
-"""Top-level package for RP To-Do."""
+"""Top-level package for To-Do."""
 
 __app_name__ = "rptodo"
-__version__ = "0.1.0"
+__version__ = "0.2.0"
 
 (
     SUCCESS,
