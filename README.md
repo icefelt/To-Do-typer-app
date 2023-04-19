@@ -10,7 +10,7 @@ To run **To-Do**, run the following steps:
 2. Create a Python virtual environment and activate it
 
 ```sh
-$ git clone git@github.com:icefelt/do-do-typer-app.git && cd to-do-typer-app/
+$ git clone git@github.com:icefelt/to-do-typer-app.git && cd to-do-typer-app/
 $ python -m venv ./venv && source venv/bin/activate
 (venv) $
 ```
